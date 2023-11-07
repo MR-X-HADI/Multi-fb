@@ -10,5 +10,9 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
     $pip install requests
     $pip install bs4
     $pip install rich
-    $cd Multi-fb
-    $python Multi.py
+    $pip install stdiomask
+
+<h5 align="left">MULAI </h5>
+
+    $ cd Multi-fb
+    $ python Multi.py

@@ -38,13 +38,8 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
 <img src="https://raw.githubusercontent.com/MR-X-HADI/Multi-fb/main/hasil%20crack.JPG" width=50% height=50%>
 
 
-## Bintang nya jangan lupa ✨ 
-![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+) 
+![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=gunakan+dengan-baik....!+) 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
-
-#### Donate :
-
-<a href="https://sociabuzz.com/123345/tribe"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MR-X-HADI)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100054222010368)

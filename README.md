@@ -1,4 +1,7 @@
-<h5 align="left">CARA INSTALL SCRIPT:</h5>
+# ✭ MULTI CRACK
+
+<h5 align="left">CARA INSTALL 
+SCRIPT:</h5>
 
 download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 

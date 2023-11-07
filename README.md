@@ -6,9 +6,9 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
     $pkg update && pkg upgrade
     $pkg install git
     $pkg install python
-    $git clone
+    $git clone https://github.com/MR-X-HADI/Multi-fb
     $pip install requests
     $pip install bs4
     $pip install rich
-    $cd FBN
-    $python fbn.py
+    $cd Multi-fb
+    $python Multi.py

@@ -17,7 +17,7 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
 
 <h5 align="left">MULAI </h5>
 
-    $git pull
+    $ git pull
     $ cd Multi-fb
     $ python Multi.py
 

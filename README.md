@@ -49,4 +49,4 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MR-X-HADI)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100054222010368)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196763398?text=Assalamualikum+bang+hadi)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285830287528?text=Assalamualikum+bang+hadi)
